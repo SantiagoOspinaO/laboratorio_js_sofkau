@@ -58,17 +58,5 @@ export const questions = [
         question: '¿Cómo se llama el polígono de siete lados',
         options: ['Heptágono', 'Hexágono', 'Septágono', 'Pentágono'],
         answer: 'Heptágono',
-    },
-    {
-        category: 'english',
-        question: '',
-        options: [''],
-        answer: '',
-    },
-    {
-        category: 'english',
-        question: '',
-        options: [''],
-        answer: '',
-    },
+    }
 ];
